@@ -45,5 +45,8 @@
     "ajax-search",
     "search",
     "quicksearch"
-  ]
+  ],
+  "scripts": {
+    "build": "npm install && grunt build"
+  }
 }
